@@ -75,7 +75,7 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/video-streaming-mern.git
+git clone https://github.com/ajinkya029/video-streaming.git
 cd video-streaming
 ```
 
